@@ -14,7 +14,7 @@ With AppointmentPro, you can effortlessly keep track of your appointments, manag
 Say goodbye to messy spreadsheets and tedious paperwork – this app simplifies the entire process, allowing you to focus on what you do best.
 
 Key Features
-1. Seamless Appointment Management: 
+1.Seamless Appointment Management: 
  AppointmentPro provides a user-friendly interface to manage your appointments efficiently. 
  You can easily schedule, reschedule, and cancel appointments with just a few taps, ensuring a smooth workflow and avoiding any scheduling conflicts.
 
