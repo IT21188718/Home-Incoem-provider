@@ -73,3 +73,6 @@ An expense is simply a cost of a business. Expenses are subtracted from revenues
 Expenses fall into two basic categories. The first expense category is cost of goods sold (COGS) or cost of services (COS). It includes all the costs directly involved in producing a product or delivering a service. The second expense category is operating expenses. Operating expenses are the costs that are required to keep the business going day to day. Both of these categories of expenses are distinguished from capital expenditures, which are the cost of items considered long-term investments, such as computer systems and equipment. Capital expenditures are not found on the income statement (except for the associated depreciation; they are accounted for on the balance sheet as an asset).
 
 Sign up for our online financial statement training and get the income statement training you need.
+
+The accounting department has to make decisions about what (expenses are) “above the line” and what’s “below the line.” The “line” generally refers to gross profit. Above that line on the income statement, typically, are sales and COGS or COS. Below the line are operating expenses, interest, and taxes. What’s the difference? Items listed above the line tend to vary more (in the short term) than many of those below the line, and so tend to get more managerial attention.
+
