@@ -67,3 +67,9 @@ Schedule-based profiles: Users can set up profiles that activate automatically a
 Battery-saving profiles: Users can set up profiles that optimize their device's settings to save battery life.
 Backup and restore: Users can backup their profiles and restore them if they switch devices or reset their device.
 To create this type of Android project, you would need to have knowledge of Android development using Java or Kotlin, as well as knowledge of Android Studio and the Android SDK. You would also need to have experience with Android app UI design and using different Android components such as activities, fragments, and services.
+
+An expense is simply a cost of a business. Expenses are subtracted from revenues to determine profit on the income statement.
+
+Expenses fall into two basic categories. The first expense category is cost of goods sold (COGS) or cost of services (COS). It includes all the costs directly involved in producing a product or delivering a service. The second expense category is operating expenses. Operating expenses are the costs that are required to keep the business going day to day. Both of these categories of expenses are distinguished from capital expenditures, which are the cost of items considered long-term investments, such as computer systems and equipment. Capital expenditures are not found on the income statement (except for the associated depreciation; they are accounted for on the balance sheet as an asset).
+
+Sign up for our online financial statement training and get the income statement training you need.
