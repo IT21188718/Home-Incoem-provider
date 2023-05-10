@@ -123,3 +123,26 @@ Unfinanced Capital Expenditures means, for any period, Capital Expenditures made
 Financial exploitation means a breach of a fiduciary duty by an actor’s unauthorized expenditure of funds entrusted to the actor for the benefit of the vulnerable adult or by an actor’s failure to provide food, clothing, shelter, health care, therapeutic conduct or supervision, the failure of which results or is likely to result in detriment to the vulnerable adult. Financial exploitation also includes: the willful use, withholding or disposal of funds or property of a vulnerable adult; the obtaining of services for wrongful profit or advantage which results in detriment to the vulnerable adult; the acquisition of a vulnerable adult’s funds or property through undue influence, harassment, duress, deception or fraud; and the use of force, coercion, or enticement to cause a vulnerable adult to perform services against the vulnerable adult’s will for the profit or advantage of another.
 
 financial expert means an individual, company or firm who is authorised to give investment advice under the Financial Services and Markets Act 2000;
+
+
+saliha oru loosu
+
+The process of calculating depends on what you want to calculate. Here are some common types of calculations and the steps to perform them:
+
+Arithmetic calculations: These involve performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Example: To calculate the sum of two numbers (e.g. 5 + 7), simply add the numbers together to get the answer (in this case, 12).
+
+Percentage calculations: These involve finding a percentage of a given value.
+
+Example: To calculate 20% of 50, you can multiply 50 by 0.2 (i.e. 50 x 0.2 = 10).
+
+Exponential calculations: These involve raising a number to a certain power.
+
+Example: To calculate 2 raised to the power of 3 (i.e. 2^3), multiply 2 by itself 3 times (i.e. 2 x 2 x 2 = 8).
+
+Trigonometric calculations: These involve using trigonometric functions (such as sine, cosine, and tangent) to calculate angles and distances.
+
+Example: To find the length of the side of a right triangle, you can use the Pythagorean theorem, which states that a^2 + b^2 = c^2, where c is the length of the hypotenuse (the longest side). If you know the lengths of the other two sides (a and b), you can solve for c.
+
+These are just a few examples of the many types of calculations that can be performed. The specific steps will vary depending on the type of calculation and the specific values involved. It's important to use the correct formula or equation for the type of calculation you are performing and to double-check your work to ensure accuracy.
