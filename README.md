@@ -1,9 +1,10 @@
 # Home-Income-provider
 Income Calculator about home income
 
-
+Rizan.s-IT21311840
 IT21188718 -K.Sathurjan
 IT21159558 - Z.F.Sahla
+IT21173622_M.S.M Shazny
 
 
 
